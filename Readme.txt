@@ -1,4 +1,4 @@
---    Create this query in sql developer
+--    Create this query in sql developer 
 create table metro_train_db(
     user_id number(20) primary key,
     user_name varchar2(50) not null,
