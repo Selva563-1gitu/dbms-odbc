@@ -1,5 +1,5 @@
 # Welcome To World of Learning!
-### For deployment - [Deploy](Deploy.md)
+### For deployment - Go to [Deploy](Deploy.md)
 ### Run The Following Code for Execution
 
 ### Run these queries in SQL Developer
