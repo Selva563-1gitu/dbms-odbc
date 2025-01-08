@@ -1,8 +1,4 @@
----
-title: DEPLOYMENT  
-layout: template  
-filename: Deploy.md
---- 
+title: Deployment
 
 # This project was fully completed!!!
 ## Link for website -> 
