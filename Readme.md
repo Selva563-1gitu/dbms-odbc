@@ -1,6 +1,6 @@
 # Welcome To World of Learning!
-
-## Run The Following Code for Execution
+### For deployment - [Deploy](Deploy.md)
+### Run The Following Code for Execution
 
 ### Run these queries in SQL Developer
 
